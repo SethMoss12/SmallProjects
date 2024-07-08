@@ -1,0 +1,26 @@
+#RedBtn {  
+    border-color: red;
+}
+
+#GreenBtn { 
+    border-color: green;
+}
+
+#BlueBtn {
+
+    border-color: blue;
+}
+
+#RndmBtn {  
+    color: black(255, 0, 0);
+    border-color: black;
+
+}
+
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+}
+
